@@ -38,8 +38,8 @@ social:
   email: leonardopx@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/leonardodepaula # change to your GitHub homepage
     - https://twitter.com/leonardodepl # change to your Twitter homepage
+    - https://github.com/leonardodepaula # change to your GitHub homepage
     - https://instagram.com/leonardo.de.paula
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

@@ -1,0 +1,41 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+.content,
+.card-title { 
+    text-align: justify; 
+}
+
+article > header {
+  text-align: justify; 
+}
+
+#topbar-wrapper {
+    margin-top: 60px;
+}
+
+.container {
+  min-width: 70%;
+}
+
+#breadcrumb {
+  max-width: 70%;
+  text-align: justify;
+}
+
+blockquote {
+  margin-left: 20%;
+}
+
+blockquote.prompt-tip, 
+blockquote.prompt-info,
+blockquote.prompt-warning,
+blockquote.prompt-danger {
+  margin-left: 0px;
+}
