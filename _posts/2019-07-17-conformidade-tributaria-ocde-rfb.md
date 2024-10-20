@@ -6,6 +6,7 @@ categories: [Artigo]
 tags: [Direito Tributário, Receita Federal, Conformidade, Tax Compliance, OCDE]
 render_with_liquid: false
 ---
+![Visits Badge](https://badges.pufler.dev/visits/leonardodepaula/2019-07-17-conformidade-tributaria-ocde-rfb)
 
 Tax compliance within the Organization for Economic Co-operation and Development and its
 potential and efetive consonance with the differentiated economic-tax monitoring of large
