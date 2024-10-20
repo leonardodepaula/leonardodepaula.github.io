@@ -1112,9 +1112,9 @@ conformidade.
 
 [^fn-nth-2]: ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO. Tax in a Borderless World: The Role of the OECD. Disponível em: <www.oecd.org/ctp/39854340.ppt>. Acesso em: 12 jul. 2019, tradução nossa.
 
-[^fn-nth-3]: CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA. Relacionamento Brasil-OCDE. Disponível em: <http://www.casacivil.gov.br/brasil-ocde/brasil-na-ocde/relacionamento-brasil-ocde/relacionamento-brasil-ocde>. Acesso em: 12 jul. 2019.
+[^fn-nth-3]: CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA. Relacionamento Brasil-OCDE. Disponível em: <https://www.casacivil.gov.br/brasil-ocde/brasil-na-ocde/relacionamento-brasil-ocde/relacionamento-brasil-ocde>. Acesso em: 12 jul. 2019.
 
-[^fn-nth-4]: CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA. Carta brasileira de pedido de acessão à OCDE. Disponível em: <http://www.casacivil.gov.br/brasil-ocde/brasil-na-ocde/pedido-de-acessao/carta-brasileira-de-pedido-de-acessao-a-ocde.pdf>. Acesso em: 12 jul. 2019.
+[^fn-nth-4]: CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA. Carta brasileira de pedido de acessão à OCDE. Disponível em: <https://www.casacivil.gov.br/brasil-ocde/brasil-na-ocde/pedido-de-acessao/carta-brasileira-de-pedido-de-acessao-a-ocde.pdf>. Acesso em: 12 jul. 2019.
 
 [^fn-nth-5]: BRASIL. Ministério da Economia. Portaria MF nº 214, de 28 de agosto de 2007. Diário Oficial da União, Poder Executivo, Brasília, DF, 31 ago. 2007. Seção 1, p. 13.
 
@@ -1134,7 +1134,7 @@ conformidade.
 
 [^fn-nth-13]: BRASIL. Constituição da República Federativa do Brasil de 1988. Diário Oficial da União, Poder Executivo, Brasília, DF, 8 out. 1998. Seção 1, p. 18.
 
-[^fn-nth-14]: SECRETARIA ESPECIAL DA RECEITA FEDERAL DO BRASIL. Grandes Contribuintes: Receita intensifica acompanhamento. Disponível em: <http://receita.economia.gov.br/noticias/ascom/2015/maio/grandes-contribuintes-receita-intensifica-acompanhamento>. Acesso em: 12 jul. 2019.
+[^fn-nth-14]: SECRETARIA ESPECIAL DA RECEITA FEDERAL DO BRASIL. Grandes Contribuintes: Receita intensifica acompanhamento. Disponível em: <https://receita.economia.gov.br/noticias/ascom/2015/maio/grandes-contribuintes-receita-intensifica-acompanhamento>. Acesso em: 12 jul. 2019.
 
 [^fn-nth-15]: BRASIL. Ministério da Economia. Portaria MF nº 227, de 3 de setembro de 1998. Diário Oficial da União, Poder Executivo, Brasília, DF, 4 set. 1998. Seção 1, p. 3.
 
@@ -1172,7 +1172,7 @@ conformidade.
 
 [^fn-nth-32]:REDAÇÃO. Repórter Diário, 17 mai. 2019. Disponível em: <https://www.reporterdiario.com.br/noticia/2673087/receita-mira-sonegacao-de-r-25-bi-na-exportacao-de-suco-de-laranja/>. Acesso em: 12 jul. 2019.
 
-[^fn-nth-33]:ORTEGA, Pepita; VASSALLO, Luiz; MACEDO, Fausto. A Tarde, 17 mai. 2019. Disponível em: <http://www.atarde.uol.com.br/economia/noticias/2060359-receita-mira-sonegacao-de-r-25-bi-na-exportacao-de-suco-de-laranja>. Acesso em: 12 jul. 2019.
+[^fn-nth-33]:ORTEGA, Pepita; VASSALLO, Luiz; MACEDO, Fausto. A Tarde, 17 mai. 2019. Disponível em: <https://www.atarde.uol.com.br/economia/noticias/2060359-receita-mira-sonegacao-de-r-25-bi-na-exportacao-de-suco-de-laranja>. Acesso em: 12 jul. 2019.
 
 [^fn-nth-34]:REDAÇÃO. Defesa Agência de Notícias, 20 mai. 2019. Disponível em: <https://defesa.com.br/4067/operacao-citrus-receita-federal-realiza-operacao-de-combate-a-sonegacao-na-exportacao-de-suco-de-laranja/>. Acesso em: 12 jul. 2019.
 
