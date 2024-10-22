@@ -2,7 +2,7 @@
 title: XGBImputer - Extreme Gradient Boosting Imputer
 author: leonardo
 date: 2022-03-11
-categories: [Article]
+categories: [Development]
 tags: [Python, Machine Learning, XGBoost, Data Imputation, MissForest]
 render_with_liquid: false
 ---
