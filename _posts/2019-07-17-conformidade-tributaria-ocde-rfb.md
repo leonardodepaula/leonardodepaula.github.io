@@ -1196,3 +1196,18 @@ conformidade.
 [^fn-nth-43]: BRASIL. Secretaria Especial da Receita Federal do Brasil. Nota Comac nº 4, de 14 de janeiro de 2019. Boletim de Serviço, RFB, Brasília, DF, 15 jan. 2019. Seção 1, p. 17.
 
 [^fn-nth-44]: BRASIL. Secretaria Especial da Receita Federal do Brasil. Nota Comac nº 7, de 1 de fevereiro de 2019. Boletim de Serviço, RFB, Brasília, DF, 4 fev. 2019. Seção 1, p. 12.
+
+<script src="https://giscus.app/client.js"
+        data-repo="leonardodepaula/leonardodepaula.github.io"
+        data-repo-id="R_kgDONChm7w"
+        data-category-id="DIC_kwDONChm784CmXDl"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="pt"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -213,3 +213,18 @@ Licensed under an [Apache-2](https://github.com/leonardodepaula/xgbimputer/blob/
 * [2] [XGBoost](https://xgboost.ai/)
 
 * [3] [scikit-learn](https://scikit-learn.org/)
+
+<script src="https://giscus.app/client.js"
+        data-repo="leonardodepaula/leonardodepaula.github.io"
+        data-repo-id="R_kgDONChm7w"
+        data-category-id="DIC_kwDONChm784CmXDl"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="pt"
+        crossorigin="anonymous"
+        async>
+</script>

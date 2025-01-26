@@ -278,3 +278,18 @@ Desejo a todos excelentes estudos, muito sucesso, garra e determinação. Nunca 
 Espero ter ajudado. Se ficar com alguma dúvida sobre os pontos de vista aqui expostos pode entrar em contato comigo pelo facebook ou email abaixo transcritos. Eventuais correções também são bem vindas.
 
 [^footnote]: <https://www.tecconcursos.com.br/depoimentos/leonardo-de-paula-23-colocado-auditor-fiscal-da-receita-federal-2014>
+
+<script src="https://giscus.app/client.js"
+        data-repo="leonardodepaula/leonardodepaula.github.io"
+        data-repo-id="R_kgDONChm7w"
+        data-category-id="DIC_kwDONChm784CmXDl"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="pt"
+        crossorigin="anonymous"
+        async>
+</script>
